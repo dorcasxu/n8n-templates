@@ -24,7 +24,7 @@
 |  7  | **N8N 数据库交互**      | 此工作流程允许使用 AI 询问有关存储在数据库中的数据的问题。          | [链接](https://n8n.io/workflows/2090-chat-with-a-database-using-ai/) |
 |  8  | **跟踪 SEO 关键词排名**   | 此工作流程会自动监控各搜索引擎的关键词排名，以追踪 SEO 效果并发现优化机会。它无需您手动检查关键词排名，从而节省您的时间，并提供全面的排名数据，方便您制定战略性 SEO 决策。。                 | [链接](https://n8n.io/workflows/5962-track-seo-keyword-rankings-with-bright-data-mcp-and-gpt-4o-ai-analysis/)            |
 |  9  | **邮件自动化管理**        | 此自动化流程旨在自动监控传入的 Gmail 消息，使用 AI 分析其内容和上下文，并使用适当的标签对其进行智能分类，以便更好地组织和确定电子邮件的优先级。           | [链接](https://n8n.io/workflows/4722-gmail-ai-email-manager/)               |
-| 10  | **自动化信息采集系统** | 利用关键词自动采集信息，通过AI筛选总结，并发布到网站。                   | [查看模板](https://www.n8nzh.com/docs/guides/xtowordpress/)              |
+| 10  | **自动化信息采集系统** | 利用关键词自动采集信息，通过AI筛选总结，并发布到网站。                   | [链接](https://www.n8nzh.com/docs/guides/xtowordpress/)              |
 
 ---
 
