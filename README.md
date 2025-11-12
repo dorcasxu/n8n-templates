@@ -15,7 +15,7 @@
 
 |  #  | 模板名称               | 功能简介                                    | 模板地址                                                                       |
 | :-: | :----------------- | :-------------------------------------- | :------------------------------------------------------------------------- |
-|  1  | **短视频收藏到 Notion**  | 手机端一键操作后，将短视频自动分类存储，并利用 AI 对视频内容进行摘要整理。 | [链接]([https://vibe.akashio.com/t/topic/121/1])                             |
+|  1  | **短视频收藏到 Notion**  | 手机端一键操作后，将短视频自动分类存储，并利用 AI 对视频内容进行摘要整理。 | [链接](https://vibe.akashio.com/t/topic/121/1)                             |
 |  2  | **自动发布公众号图文**      | 集成视频内容自动生成图文草稿，并一键发布至微信公众号。             | [链接](https://www.n8nzh.com/docs/guides/auto-wechat-publish/)               |
 |  3  | **自动生成视频并发布到社交媒体**      | 使用 n8n 与飞书 API 实现内容自动分发，自动上传到小红书等平台。    | [链接](https://n8n.io/workflows/5035-generate-and-auto-post-ai-videos-to-social-media-with-veo3-and-blotato/) | 
 |  4  | **飞书到X自动化**      | 利用N8N与飞书的集成，实现自媒体内容自动发布到推特的完整流程，适用于自媒体人和职场用户。   | [链接](https://www.n8nzh.com/docs/guides/n8n-feishu-twitter-workflow/)                   |
